@@ -11,7 +11,7 @@ This project is a simplified implementation of the Data Encryption Standard ciph
 * We consider that the plaintext and cipher text are known:
   * Plaintext:  *p*<sub>1</sub>, *p*<sub>2</sub>, ... , *p*<sub>8</sub> 
   * Ciphertext: *c*<sub>1</sub>, *c*<sub>2</sub>, ... , *c*<sub>8</sub>
-  * Key: *k*<sub>1</sub>, *k*<sub>2</sub>, ... , *p*<sub>10</sub>
+  * Key: *k*<sub>1</sub>, *k*<sub>2</sub>, ... , *k*<sub>10</sub>
 <p align="center">
     <img style="border-radius: 20px; width: 49%" src="./img/DES.png">
     <img style="border-radius: 20px; width: 49%" src="./img/f-func.png">
